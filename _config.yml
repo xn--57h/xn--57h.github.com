@@ -1,0 +1,7 @@
+server: yes
+auto: yes
+permalink: /:year/:title.html
+baseurl: /
+something: else
+markdown: rdiscount
+pygments: yes
